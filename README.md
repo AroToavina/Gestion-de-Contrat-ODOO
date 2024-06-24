@@ -1,3 +1,6 @@
+RAKOTOBE Aro Toavina
+63/LA/23-24
+
 Introduction
 
 Ce module Odoo a été développé pour gérer les informations des contrats et permettre la génération manuelle de factures associées.
